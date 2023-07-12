@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="OSTy2VeNe9Z59U6eByu0">
+        <mxGraphModel dx="1400" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="oeLM2Wp3w2iDGvl5ooOW-2" value="Possible Problems with Dataset:&lt;br&gt;-It might not be completely accurate&lt;br&gt;-Different versions of said song&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="50" width="240" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;div&gt;Generes:&lt;/div&gt;&lt;div&gt;artist_name&amp;nbsp;&lt;/div&gt;&lt;div&gt;track_name&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;track_id&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;popularity&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;year&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;genre&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;danceability&lt;/div&gt;&lt;div&gt;energy&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;key&lt;/div&gt;&lt;div&gt;loudness&lt;/div&gt;&lt;div&gt;mode&lt;/div&gt;&lt;div&gt;speechiness&lt;/div&gt;&lt;div&gt;acousticness&lt;/div&gt;&lt;div&gt;instrumentalness&lt;/div&gt;&lt;div&gt;liveness&lt;/div&gt;&lt;div&gt;valence&lt;/div&gt;&lt;div&gt;tempo&lt;/div&gt;&lt;div&gt;duration_ms&lt;/div&gt;&lt;div&gt;time_signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="220" width="200" height="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Ideas:&lt;br&gt;-How diverse are an artist's songs? How much do they diversify in genres?&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="40" width="240" height="90" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
